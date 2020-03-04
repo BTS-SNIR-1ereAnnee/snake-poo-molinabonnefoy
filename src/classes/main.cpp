@@ -24,5 +24,6 @@ int main()
     //cout << "press any key to quit" << endl;
     getchar();
     fenetre->kill();
+	
     return 0;
 }
