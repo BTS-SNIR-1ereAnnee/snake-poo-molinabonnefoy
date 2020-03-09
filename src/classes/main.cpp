@@ -17,13 +17,13 @@ int main()
     // initialisation des pointeurs
     fenetre = Board::getInstance ();
 
-    Point p(10,4);
+    Point p(10,4);              //test point.cpp
     p.drawPoint();
     Point p2(10,5);
     p2.drawPoint();
     
     
-    int tab[10][10] = {{0}};
+    int tab[10][10] = {{0}};//tableau
     int i=0;
      
     for (i=0 ; i<100 ;i++)
@@ -42,7 +42,7 @@ int main()
     
     
     
-//    do
+//    do                        //mouvement
 //    while
 //    
 //    case z;
