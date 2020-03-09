@@ -1,4 +1,7 @@
 #include <iostream>
-#include <string>
-using namespace std;
+#include <Point.h>
+#include <snake.h>
+#include <ncurses.h>
+
+
 

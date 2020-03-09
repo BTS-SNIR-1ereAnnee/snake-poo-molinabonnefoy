@@ -23,6 +23,25 @@ int main()
     p2.drawPoint();
     
     
+//    do
+//    while
+//    
+//    case z;
+//        p.moveUp;
+//        break
+//    case q;
+//        p.moveLeft;
+//        break
+//    case s;
+//        p.moveDown;
+//        break
+//    case d;
+//        p.moveright;
+//        break
+    
+    
+    
+    
     //cout << "press any key to quit" << endl;
     getchar();
     fenetre->kill();
