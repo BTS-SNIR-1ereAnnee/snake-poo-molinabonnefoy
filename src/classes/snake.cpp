@@ -8,4 +8,8 @@ Snake::Snake()
     this->m_index=0:
 }
 
-
+void Snake::afficheSerpent();
+{
+cout<<tete;
+cout<<corps;
+}

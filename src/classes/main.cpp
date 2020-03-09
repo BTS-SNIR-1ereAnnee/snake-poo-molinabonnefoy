@@ -23,6 +23,25 @@ int main()
     p2.drawPoint();
     
     
+    int tab[10][10] = {{0}};
+    int i=0;
+     
+    for (i=0 ; i<100 ;i++)
+    {
+        tab[i/10][i%10]=2;
+    }
+    
+    
+    
+    //POMME
+    
+    
+    
+    
+    
+    
+    
+    
 //    do
 //    while
 //    
@@ -39,6 +58,14 @@ int main()
 //        p.moveright;
 //        break
     
+    
+    
+    
+  
+  
+    //#QUIT
+    //colide
+    //
     
     
     
